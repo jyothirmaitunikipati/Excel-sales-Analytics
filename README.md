@@ -1,52 +1,44 @@
+## Sales Report :
 
-**Excel Report: AtliQ Hardware Sales & Finance Analysis** 📄
 
-In this project, I created reports in Excel for AtliQ Hardware's finance and sales departments to assist both teams in making crucial decisions for expanding their business and enhancing their market presence globally.
+- **Project objective:** 
 
-**Finance Report** 📊
+    **1.** Create a _[customer performance report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
 
-I prepared a Profit & Loss statement, including:
+    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
 
-Net Sales
-Cost of Goods Sold (COGS)
-Gross Margin (GM)
-GM %
-These metrics were calculated for a particular fiscal year, as well as specific months and quarters.
+- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
-**Sales Report** 📈
+- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
 
-I prepared the Customer Performance Report and Market Performance Report, focusing on specific regions, divisions, and countries.
+- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
-**Tasks Performed** ✅
 
-📥 Importing Datasets: Imported datasets into Excel and performed ETL (Extract, Transform, Load) using Power Query.
+## Finance Report :
 
-🧹 Data Cleaning: Cleaned the datasets by handling null values, incorrect values, duplicate values, and trimming extra spaces.
+- **Project objective:** 
 
-📊 Data Modeling: Built the data model in Power Pivot, establishing relationships between fact and dimension tables.
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
 
-📅 Date Dimension Creation: Created a date dimension table and fiscal year using Power Query M-Language.
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
 
-🧮 DAX Functions: Used Data Analysis Expressions (DAX) functions like SUM, DIVIDE, RELATED, CALCULATE, SUMX, and DISTINCT to calculate appropriate measures and columns.
+- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
-**Domain Knowledge** 📚
+- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
 
-Learned about finance and sales domain knowledge, such as Profit & Loss Statements.
+- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
-**Insights Gained** 📘
 
-🌟 Data Cleaning and Combining: I honed techniques for meticulous data cleaning and preparation, ensuring both accuracy and consistency. I also mastered the art of combining data from various sources to enable comprehensive analysis.
+## Technical & Soft Skills:
+- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
+- [x]	Skills to generate a date table using Power Query.
+- [x]	Ability to derive fiscal months and quarters.
+- [x]	Establishing data model relationships with Power Pivot.
+- [x]	Proficiency in incorporating supplementary data into an existing data model.
+- [x]	Utilizing DAX to create calculated columns.
 
-🌟 Applying Business Math and Statistics: I developed proficiency in applying key mathematical and statistical concepts to effectively analyze and interpret data, uncovering valuable insights.
-
-🌟 Data Transformation using Power Query: Leveraging Power Query, I executed complex data transformations, including filtering, merging, and aggregating, which facilitated seamless data preparation for analysis.
-
-🌟 Working with Pivot Tables and Power Pivot: I became adept at using Excel’s Pivot Tables and Power Pivot for summarizing, analyzing, and visualizing data. This expertise enabled me to create dynamic reports and perform intricate calculations.
-
-🌟 Sales and Financial Analytics: I explored Excel’s capabilities in both sales and financial analysis, allowing me to track performance, identify trends, and generate insightful reports for informed decision-making.
-
-🌟 Real-time Business Application Expertise: I applied Excel in real-world business scenarios, including creating a Project Priority Matrix for efficient project management and conducting Scenario Planning to analyze potential outcomes based on various assumptions.
-
-**Acknowledgments** 📣
-
-This project was part of the Data Analytics Bootcamp, "Excel - The Mother of Business Intelligence," led by Dhaval Patel and Hemanand Vadivel. Special thanks to them and the Codebasics team for their support and excellent content.
+## Soft Skills:
+- [x]	Refined understanding of Sales & Finance Reports
+- [x]	Designing user-centric reports with empathy in mind.
+- [x]	Optimization of report generation through meticulous fine-tuning.
+- [x]	Developing a systematic approach to devising a report building plan.
